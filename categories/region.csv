@@ -1,0 +1,5 @@
+id,name,preferredColor,latitude,longitude,region
+EUR,Europe,#ffe400,57,20,EUR
+AFR,Africa,#00b2ee,7,21,AFR
+ASI,Asia,#ff2d90,38,78,ASI
+AME,America,#38d009,9,-80,AME
